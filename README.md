@@ -9,7 +9,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![alt text](https://github.com/priyaparashar/horizontal-scroll-tabs-for-web/blob/master/tabs-broken.JPG?raw=true)
 
 ## Scrollable tabs in Mobile View
-![alt text]https://github.com/priyaparashar/horizontal-scroll-tabs-for-web/blob/master/tabs-scrollable.JPG?raw=true)
+![alt text](https://github.com/priyaparashar/horizontal-scroll-tabs-for-web/blob/master/tabs-scrollable.JPG?raw=true)
 
 ## Development server
 
