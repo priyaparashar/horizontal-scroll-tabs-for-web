@@ -1,4 +1,6 @@
-# HeroOne
+# Horizontal Scrollable Tabs for mobile web application
+Angular 5.x 
+ngx-bootstrap
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
