@@ -1,0 +1,21 @@
+
+
+      <div class="container">
+            <div class="row">
+     <!-- Nav tabs -->
+                    <div class="card">
+                            <tabset>
+                                    <tab heading="Static title" ><legend>Responsive Tabs</legend>
+                                        <p>If you are on desktop Try resizing the window to mobile view to see the scroll effect</p>
+                                        <p>Horizontal scrollable tabs</p>
+                                        <p>Best for mobile view</p>
+                                        <p>Similar to gravity MODE_SCROLLABLE in Android</p></tab>
+                                    <tab *ngFor="let tabz of tabs"
+                                         [heading]="tabz.title"
+                                         [customClass]="tabz.customClass">
+                                      {{tabz?.content}}
+                                    </tab>
+                                  </tabset>
+                    </div>
+            </div>
+        </div>
